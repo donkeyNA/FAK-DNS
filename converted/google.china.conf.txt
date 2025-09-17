@@ -1,284 +1,142 @@
-[/265.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/2mdn-cn.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/2mdn.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/admob-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/adservice.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/app-analytics-services.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/app-measurement-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/app-measurement.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/apps5.oingo.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/avail.googleflights.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/beacons.gcp.gvt2.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/beacons.gvt2.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/beacons2.gvt2.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/beacons3.gvt2.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/c.admob.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/c.android.clients.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/cache-management-prod.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/cache.pack.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/checkin.gstatic.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/clickserve.cc-dt.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/clickserve.dartsearch.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/clickserver.googleads.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/clientservices.googleapis.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/cn.widevine.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/cnappinstall.googleadapis.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/connectivitycheck.gstatic.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/content.googleadapis.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/crashlyticsreports-pa.googleapis.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/crl.pki.goog/]https://doh.pub/dns-query
-https://doh.360.cn
-[/csi.gstatic.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/dartsearch-cn.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/dg-meta.video.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/dl.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/dl.l.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/doubleclick-cn.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/doubleclick.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/download.mlcc.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/download.qatp1.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/download.tensorflow.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/emmapplecodevice.googleapis.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/firebase-settings.crashlytics.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/fontfiles.googleapis.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/fonts.googleapis.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/fonts.gstatic.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/g0.gstatic.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/g1.gstatic.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/g2.gstatic.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/g3.gstatic.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/go.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/gonglchuangl.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/gongyichuangyi.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/google-analytics-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/google-analytics.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googleadservices-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googleadservices.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googleanalytics.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googleapis-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googleapps-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googleflights-cn.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googleoptimize-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googleoptimize.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googlesyndication-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googlesyndication.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googletagmanager-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googletagmanager.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googletagservices-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googletagservices.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googletraveladservices-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googletraveladservices.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/googlevads-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/gstatic-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/gstaticadssl.l.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/gtm.oasisfeng.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/gvt1-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/gvt2-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/imasdk.googleapis.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/l2-uberproxy.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/logger-dev.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/logger.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/login.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/monitoring.qpdp1.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/ocsp.pki.goog/]https://doh.pub/dns-query
-https://doh.360.cn
-[/pagead-googlehosted.l.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/performanceparameters.googleapis.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/pki-goog.l.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/prod-controlbe.floonet.goog/]https://doh.pub/dns-query
-https://doh.360.cn
-[/prod-databe.floonet.goog/]https://doh.pub/dns-query
-https://doh.360.cn
-[/prod.databe.floonet.goog/]https://doh.pub/dns-query
-https://doh.360.cn
-[/proxyconfig.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/qagpublic.qatp1.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/qgadmin.qcpp1.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/qiao-cn.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/qpx.googleflights.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/qualysapi.qatp1.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/qualysguard.qpdp1.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/r.cert.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/rapture-prod.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/recaptcha-cn.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/recaptcha.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/redirector.bdn.dev/]https://doh.pub/dns-query
-https://doh.360.cn
-[/redirector.c.chat.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/redirector.c.mail.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/redirector.c.pack.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/redirector.c.play.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/redirector.c.youtubeeducation.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/redirector.gcpcdn.gvt1.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/redirector.gvt1.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/redirector.offline-maps.gvt1.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/redirector.snap.gvt1.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/redirector.xn--ngstr-lra8j.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/safebrowsing-cache.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/safebrowsing.googleapis.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/scanservice1.qcpp1.net/]https://doh.pub/dns-query
-https://doh.360.cn
-[/service.urchin.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/ssl-google-analytics.l.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/ssl.gstatic.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/sslredirect.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/staging-controlbe.floonet.goog/]https://doh.pub/dns-query
-https://doh.360.cn
-[/staging-databe.floonet.goog/]https://doh.pub/dns-query
-https://doh.360.cn
-[/staging.databe.floonet.goog/]https://doh.pub/dns-query
-https://doh.360.cn
-[/streaming-uberproxy-rotation.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/streaming-uberproxy.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/sup-ssh-relay.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/sup-ssh-relay2.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/sup.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/sup.l.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/tac.googleapis.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/test.gbugs-qa.chromium.org/]https://doh.pub/dns-query
-https://doh.360.cn
-[/tools.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/tools.l.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/uberproxy-debug4.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/uberproxy.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/uberproxy6.corp.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/update.crashlytics.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/update.googleapis.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/wear.googleapis.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/www-google-analytics.l.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/www-googletagmanager.l.google.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/www.destinationurl.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/www.gstatic.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/www.pxcc.com/]https://doh.pub/dns-query
-https://doh.360.cn
-[/xn--flw351e.com/]https://doh.pub/dns-query
-https://doh.360.cn
+[/265.com/]https://doh.pub/dns-query https://doh.360.cn
+[/2mdn-cn.net/]https://doh.pub/dns-query https://doh.360.cn
+[/2mdn.net/]https://doh.pub/dns-query https://doh.360.cn
+[/admob-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/adservice.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/app-analytics-services.com/]https://doh.pub/dns-query https://doh.360.cn
+[/app-measurement-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/app-measurement.com/]https://doh.pub/dns-query https://doh.360.cn
+[/apps5.oingo.com/]https://doh.pub/dns-query https://doh.360.cn
+[/avail.googleflights.net/]https://doh.pub/dns-query https://doh.360.cn
+[/beacons.gcp.gvt2.com/]https://doh.pub/dns-query https://doh.360.cn
+[/beacons.gvt2.com/]https://doh.pub/dns-query https://doh.360.cn
+[/beacons2.gvt2.com/]https://doh.pub/dns-query https://doh.360.cn
+[/beacons3.gvt2.com/]https://doh.pub/dns-query https://doh.360.cn
+[/c.admob.com/]https://doh.pub/dns-query https://doh.360.cn
+[/c.android.clients.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/cache-management-prod.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/cache.pack.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/checkin.gstatic.com/]https://doh.pub/dns-query https://doh.360.cn
+[/clickserve.cc-dt.com/]https://doh.pub/dns-query https://doh.360.cn
+[/clickserve.dartsearch.net/]https://doh.pub/dns-query https://doh.360.cn
+[/clickserver.googleads.com/]https://doh.pub/dns-query https://doh.360.cn
+[/clientservices.googleapis.com/]https://doh.pub/dns-query https://doh.360.cn
+[/cn.widevine.com/]https://doh.pub/dns-query https://doh.360.cn
+[/cnappinstall.googleadapis.com/]https://doh.pub/dns-query https://doh.360.cn
+[/connectivitycheck.gstatic.com/]https://doh.pub/dns-query https://doh.360.cn
+[/content.googleadapis.com/]https://doh.pub/dns-query https://doh.360.cn
+[/crashlyticsreports-pa.googleapis.com/]https://doh.pub/dns-query https://doh.360.cn
+[/crl.pki.goog/]https://doh.pub/dns-query https://doh.360.cn
+[/csi.gstatic.com/]https://doh.pub/dns-query https://doh.360.cn
+[/dartsearch-cn.net/]https://doh.pub/dns-query https://doh.360.cn
+[/dg-meta.video.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/dl.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/dl.l.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/doubleclick-cn.net/]https://doh.pub/dns-query https://doh.360.cn
+[/doubleclick.net/]https://doh.pub/dns-query https://doh.360.cn
+[/download.mlcc.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/download.qatp1.net/]https://doh.pub/dns-query https://doh.360.cn
+[/download.tensorflow.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/emmapplecodevice.googleapis.com/]https://doh.pub/dns-query https://doh.360.cn
+[/firebase-settings.crashlytics.com/]https://doh.pub/dns-query https://doh.360.cn
+[/fontfiles.googleapis.com/]https://doh.pub/dns-query https://doh.360.cn
+[/fonts.googleapis.com/]https://doh.pub/dns-query https://doh.360.cn
+[/fonts.gstatic.com/]https://doh.pub/dns-query https://doh.360.cn
+[/g0.gstatic.com/]https://doh.pub/dns-query https://doh.360.cn
+[/g1.gstatic.com/]https://doh.pub/dns-query https://doh.360.cn
+[/g2.gstatic.com/]https://doh.pub/dns-query https://doh.360.cn
+[/g3.gstatic.com/]https://doh.pub/dns-query https://doh.360.cn
+[/go.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/gonglchuangl.net/]https://doh.pub/dns-query https://doh.360.cn
+[/gongyichuangyi.net/]https://doh.pub/dns-query https://doh.360.cn
+[/google-analytics-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/google-analytics.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googleadservices-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googleadservices.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googleanalytics.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googleapis-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googleapps-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googleflights-cn.net/]https://doh.pub/dns-query https://doh.360.cn
+[/googleoptimize-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googleoptimize.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googlesyndication-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googlesyndication.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googletagmanager-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googletagmanager.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googletagservices-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googletagservices.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googletraveladservices-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googletraveladservices.com/]https://doh.pub/dns-query https://doh.360.cn
+[/googlevads-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/gstatic-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/gstaticadssl.l.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/gtm.oasisfeng.com/]https://doh.pub/dns-query https://doh.360.cn
+[/gvt1-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/gvt2-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/imasdk.googleapis.com/]https://doh.pub/dns-query https://doh.360.cn
+[/l2-uberproxy.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/logger-dev.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/logger.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/login.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/monitoring.qpdp1.net/]https://doh.pub/dns-query https://doh.360.cn
+[/ocsp.pki.goog/]https://doh.pub/dns-query https://doh.360.cn
+[/pagead-googlehosted.l.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/performanceparameters.googleapis.com/]https://doh.pub/dns-query https://doh.360.cn
+[/pki-goog.l.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/prod-controlbe.floonet.goog/]https://doh.pub/dns-query https://doh.360.cn
+[/prod-databe.floonet.goog/]https://doh.pub/dns-query https://doh.360.cn
+[/prod.databe.floonet.goog/]https://doh.pub/dns-query https://doh.360.cn
+[/proxyconfig.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/qagpublic.qatp1.net/]https://doh.pub/dns-query https://doh.360.cn
+[/qgadmin.qcpp1.net/]https://doh.pub/dns-query https://doh.360.cn
+[/qiao-cn.com/]https://doh.pub/dns-query https://doh.360.cn
+[/qpx.googleflights.net/]https://doh.pub/dns-query https://doh.360.cn
+[/qualysapi.qatp1.net/]https://doh.pub/dns-query https://doh.360.cn
+[/qualysguard.qpdp1.net/]https://doh.pub/dns-query https://doh.360.cn
+[/r.cert.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/rapture-prod.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/recaptcha-cn.net/]https://doh.pub/dns-query https://doh.360.cn
+[/recaptcha.net/]https://doh.pub/dns-query https://doh.360.cn
+[/redirector.bdn.dev/]https://doh.pub/dns-query https://doh.360.cn
+[/redirector.c.chat.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/redirector.c.mail.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/redirector.c.pack.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/redirector.c.play.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/redirector.c.youtubeeducation.com/]https://doh.pub/dns-query https://doh.360.cn
+[/redirector.gcpcdn.gvt1.com/]https://doh.pub/dns-query https://doh.360.cn
+[/redirector.gvt1.com/]https://doh.pub/dns-query https://doh.360.cn
+[/redirector.offline-maps.gvt1.com/]https://doh.pub/dns-query https://doh.360.cn
+[/redirector.snap.gvt1.com/]https://doh.pub/dns-query https://doh.360.cn
+[/redirector.xn--ngstr-lra8j.com/]https://doh.pub/dns-query https://doh.360.cn
+[/safebrowsing-cache.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/safebrowsing.googleapis.com/]https://doh.pub/dns-query https://doh.360.cn
+[/scanservice1.qcpp1.net/]https://doh.pub/dns-query https://doh.360.cn
+[/service.urchin.com/]https://doh.pub/dns-query https://doh.360.cn
+[/ssl-google-analytics.l.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/ssl.gstatic.com/]https://doh.pub/dns-query https://doh.360.cn
+[/sslredirect.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/staging-controlbe.floonet.goog/]https://doh.pub/dns-query https://doh.360.cn
+[/staging-databe.floonet.goog/]https://doh.pub/dns-query https://doh.360.cn
+[/staging.databe.floonet.goog/]https://doh.pub/dns-query https://doh.360.cn
+[/streaming-uberproxy-rotation.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/streaming-uberproxy.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/sup-ssh-relay.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/sup-ssh-relay2.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/sup.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/sup.l.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/tac.googleapis.com/]https://doh.pub/dns-query https://doh.360.cn
+[/test.gbugs-qa.chromium.org/]https://doh.pub/dns-query https://doh.360.cn
+[/tools.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/tools.l.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/uberproxy-debug4.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/uberproxy.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/uberproxy6.corp.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/update.crashlytics.com/]https://doh.pub/dns-query https://doh.360.cn
+[/update.googleapis.com/]https://doh.pub/dns-query https://doh.360.cn
+[/wear.googleapis.com/]https://doh.pub/dns-query https://doh.360.cn
+[/www-google-analytics.l.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/www-googletagmanager.l.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/www.destinationurl.com/]https://doh.pub/dns-query https://doh.360.cn
+[/www.gstatic.com/]https://doh.pub/dns-query https://doh.360.cn
+[/www.pxcc.com/]https://doh.pub/dns-query https://doh.360.cn
+[/xn--flw351e.com/]https://doh.pub/dns-query https://doh.360.cn
