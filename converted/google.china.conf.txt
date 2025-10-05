@@ -14,6 +14,7 @@
 [/beacons3.gvt2.com/]https://doh.pub/dns-query https://doh.360.cn
 [/c.admob.com/]https://doh.pub/dns-query https://doh.360.cn
 [/c.android.clients.google.com/]https://doh.pub/dns-query https://doh.360.cn
+[/c.pki.goog/]https://doh.pub/dns-query https://doh.360.cn
 [/cache-management-prod.google.com/]https://doh.pub/dns-query https://doh.360.cn
 [/cache.pack.google.com/]https://doh.pub/dns-query https://doh.360.cn
 [/checkin.gstatic.com/]https://doh.pub/dns-query https://doh.360.cn
