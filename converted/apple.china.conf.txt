@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]https://doh.pub/dns-query https://doh.360.cn
 [/itunes.apple.com/]https://doh.pub/dns-query https://doh.360.cn
 [/itunesconnect.apple.com/]https://doh.pub/dns-query https://doh.360.cn
+[/mensura.cdn-apple.com/]https://doh.pub/dns-query https://doh.360.cn
 [/mesu-cdn.apple.com.akadns.net/]https://doh.pub/dns-query https://doh.360.cn
 [/mesu-china.apple.com.akadns.net/]https://doh.pub/dns-query https://doh.360.cn
 [/mesu.apple.com/]https://doh.pub/dns-query https://doh.360.cn
