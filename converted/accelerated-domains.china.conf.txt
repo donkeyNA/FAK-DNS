@@ -207,7 +207,6 @@
 [/01yun.com/]https://doh.pub/dns-query https://doh.360.cn
 [/01zenith.net/]https://doh.pub/dns-query https://doh.360.cn
 [/01zhuanche.com/]https://doh.pub/dns-query https://doh.360.cn
-[/01zk.com/]https://doh.pub/dns-query https://doh.360.cn
 [/020.com/]https://doh.pub/dns-query https://doh.360.cn
 [/020.net/]https://doh.pub/dns-query https://doh.360.cn
 [/020.xn--5tzm5g/]https://doh.pub/dns-query https://doh.360.cn
@@ -4675,7 +4674,6 @@
 [/46d7940171014.beer/]https://doh.pub/dns-query https://doh.360.cn
 [/46eadc71881fb97a.com/]https://doh.pub/dns-query https://doh.360.cn
 [/46mlsv.com/]https://doh.pub/dns-query https://doh.360.cn
-[/46ps.com/]https://doh.pub/dns-query https://doh.360.cn
 [/46xs.com/]https://doh.pub/dns-query https://doh.360.cn
 [/4714da8871019.beer/]https://doh.pub/dns-query https://doh.360.cn
 [/471f94eab9784273.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -6654,7 +6652,6 @@
 [/6188cnc.com/]https://doh.pub/dns-query https://doh.360.cn
 [/618bg.com/]https://doh.pub/dns-query https://doh.360.cn
 [/618cj.com/]https://doh.pub/dns-query https://doh.360.cn
-[/618day.com/]https://doh.pub/dns-query https://doh.360.cn
 [/618ky.com/]https://doh.pub/dns-query https://doh.360.cn
 [/618tech.com/]https://doh.pub/dns-query https://doh.360.cn
 [/618waihui.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -6976,7 +6973,6 @@
 [/688dns.com/]https://doh.pub/dns-query https://doh.360.cn
 [/688wz.net/]https://doh.pub/dns-query https://doh.360.cn
 [/68955.com/]https://doh.pub/dns-query https://doh.360.cn
-[/68978.net/]https://doh.pub/dns-query https://doh.360.cn
 [/68apk.com/]https://doh.pub/dns-query https://doh.360.cn
 [/68bbq.com/]https://doh.pub/dns-query https://doh.360.cn
 [/68china.net/]https://doh.pub/dns-query https://doh.360.cn
@@ -7172,7 +7168,6 @@
 [/701.com/]https://doh.pub/dns-query https://doh.360.cn
 [/703804.com/]https://doh.pub/dns-query https://doh.360.cn
 [/70524.com/]https://doh.pub/dns-query https://doh.360.cn
-[/706net.com/]https://doh.pub/dns-query https://doh.360.cn
 [/707.com/]https://doh.pub/dns-query https://doh.360.cn
 [/707598.xyz/]https://doh.pub/dns-query https://doh.360.cn
 [/707e518c610291.beer/]https://doh.pub/dns-query https://doh.360.cn
@@ -7911,7 +7906,6 @@
 [/83666.com/]https://doh.pub/dns-query https://doh.360.cn
 [/83692.com/]https://doh.pub/dns-query https://doh.360.cn
 [/83753751.com/]https://doh.pub/dns-query https://doh.360.cn
-[/8379888.com/]https://doh.pub/dns-query https://doh.360.cn
 [/8383.vip/]https://doh.pub/dns-query https://doh.360.cn
 [/838413.com/]https://doh.pub/dns-query https://doh.360.cn
 [/838dz.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -9674,7 +9668,6 @@
 [/acingame.com/]https://doh.pub/dns-query https://doh.360.cn
 [/acirclea.com/]https://doh.pub/dns-query https://doh.360.cn
 [/acirno.com/]https://doh.pub/dns-query https://doh.360.cn
-[/acjw.net/]https://doh.pub/dns-query https://doh.360.cn
 [/acloud.com/]https://doh.pub/dns-query https://doh.360.cn
 [/acloudbaas.com/]https://doh.pub/dns-query https://doh.360.cn
 [/acloudrender.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -13176,7 +13169,6 @@
 [/awx1.com/]https://doh.pub/dns-query https://doh.360.cn
 [/awyerwu.com/]https://doh.pub/dns-query https://doh.360.cn
 [/awyx.xyz/]https://doh.pub/dns-query https://doh.360.cn
-[/ax196.com/]https://doh.pub/dns-query https://doh.360.cn
 [/ax1x.com/]https://doh.pub/dns-query https://doh.360.cn
 [/ax2nc4.ren/]https://doh.pub/dns-query https://doh.360.cn
 [/axatp.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -14315,7 +14307,6 @@
 [/bbfstore.com/]https://doh.pub/dns-query https://doh.360.cn
 [/bbfytsn.com/]https://doh.pub/dns-query https://doh.360.cn
 [/bbgdex.com/]https://doh.pub/dns-query https://doh.360.cn
-[/bbgsite.com/]https://doh.pub/dns-query https://doh.360.cn
 [/bbgstatic.com/]https://doh.pub/dns-query https://doh.360.cn
 [/bbguangcai.com/]https://doh.pub/dns-query https://doh.360.cn
 [/bbhou.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -17167,7 +17158,6 @@
 [/bsccdn.com/]https://doh.pub/dns-query https://doh.360.cn
 [/bsccdn.net/]https://doh.pub/dns-query https://doh.360.cn
 [/bscdns.com/]https://doh.pub/dns-query https://doh.360.cn
-[/bscdnweb.com/]https://doh.pub/dns-query https://doh.360.cn
 [/bscea.org/]https://doh.pub/dns-query https://doh.360.cn
 [/bscedge.com/]https://doh.pub/dns-query https://doh.360.cn
 [/bscgslb.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -19163,7 +19153,6 @@
 [/cdn-v.com/]https://doh.pub/dns-query https://doh.360.cn
 [/cdn.fun/]https://doh.pub/dns-query https://doh.360.cn
 [/cdn.me/]https://doh.pub/dns-query https://doh.360.cn
-[/cdn.samsung.com/]https://doh.pub/dns-query https://doh.360.cn
 [/cdn.shanghai.nyu.edu/]https://doh.pub/dns-query https://doh.360.cn
 [/cdn.show/]https://doh.pub/dns-query https://doh.360.cn
 [/cdn.vin/]https://doh.pub/dns-query https://doh.360.cn
@@ -19777,7 +19766,6 @@
 [/cghhospital.org/]https://doh.pub/dns-query https://doh.360.cn
 [/cghospital.com/]https://doh.pub/dns-query https://doh.360.cn
 [/cgicop.com/]https://doh.pub/dns-query https://doh.360.cn
-[/cgiumuo.xyz/]https://doh.pub/dns-query https://doh.360.cn
 [/cgivz.com/]https://doh.pub/dns-query https://doh.360.cn
 [/cgjoy.com/]https://doh.pub/dns-query https://doh.360.cn
 [/cgjoy.net/]https://doh.pub/dns-query https://doh.360.cn
@@ -23361,7 +23349,6 @@
 [/cnfeol.net/]https://doh.pub/dns-query https://doh.360.cn
 [/cnfg.cc/]https://doh.pub/dns-query https://doh.360.cn
 [/cnfia.com/]https://doh.pub/dns-query https://doh.360.cn
-[/cnfiberhome.com/]https://doh.pub/dns-query https://doh.360.cn
 [/cnfin.com/]https://doh.pub/dns-query https://doh.360.cn
 [/cnfina.com/]https://doh.pub/dns-query https://doh.360.cn
 [/cnfirst.net/]https://doh.pub/dns-query https://doh.360.cn
@@ -24412,6 +24399,7 @@
 [/coremakingsolutions.com/]https://doh.pub/dns-query https://doh.360.cn
 [/corerain.com/]https://doh.pub/dns-query https://doh.360.cn
 [/corex-design.com/]https://doh.pub/dns-query https://doh.360.cn
+[/corexpertdata.com/]https://doh.pub/dns-query https://doh.360.cn
 [/coreyun.net/]https://doh.pub/dns-query https://doh.360.cn
 [/corgichina.com/]https://doh.pub/dns-query https://doh.360.cn
 [/corlercar888.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -26673,7 +26661,6 @@
 [/dahetest.com/]https://doh.pub/dns-query https://doh.360.cn
 [/dahhxxttxs.com/]https://doh.pub/dns-query https://doh.360.cn
 [/dahongba.net/]https://doh.pub/dns-query https://doh.360.cn
-[/dahongtec.com/]https://doh.pub/dns-query https://doh.360.cn
 [/dahongtool.com/]https://doh.pub/dns-query https://doh.360.cn
 [/dahouduan.com/]https://doh.pub/dns-query https://doh.360.cn
 [/dahua-cpa.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -29600,7 +29587,6 @@
 [/downke.com/]https://doh.pub/dns-query https://doh.360.cn
 [/downkr.com/]https://doh.pub/dns-query https://doh.360.cn
 [/downkuai.com/]https://doh.pub/dns-query https://doh.360.cn
-[/download.microsoft.com/]https://doh.pub/dns-query https://doh.360.cn
 [/download.visualstudio.microsoft.com/]https://doh.pub/dns-query https://doh.360.cn
 [/download.windowsupdate.com/]https://doh.pub/dns-query https://doh.360.cn
 [/downloads.ltd/]https://doh.pub/dns-query https://doh.360.cn
@@ -32941,7 +32927,6 @@
 [/faminuo.com/]https://doh.pub/dns-query https://doh.360.cn
 [/famobiotech.com/]https://doh.pub/dns-query https://doh.360.cn
 [/famousoffice.com/]https://doh.pub/dns-query https://doh.360.cn
-[/famoustone.com/]https://doh.pub/dns-query https://doh.360.cn
 [/famulei.com/]https://doh.pub/dns-query https://doh.360.cn
 [/fan-lun.com/]https://doh.pub/dns-query https://doh.360.cn
 [/fan-md.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -33375,7 +33360,6 @@
 [/fcnes.com/]https://doh.pub/dns-query https://doh.360.cn
 [/fcnode.net/]https://doh.pub/dns-query https://doh.360.cn
 [/fcpawn.com/]https://doh.pub/dns-query https://doh.360.cn
-[/fcpiao.com/]https://doh.pub/dns-query https://doh.360.cn
 [/fcpowerup.com/]https://doh.pub/dns-query https://doh.360.cn
 [/fcqjc.com/]https://doh.pub/dns-query https://doh.360.cn
 [/fcrc114.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -34372,7 +34356,6 @@
 [/flmgr.net/]https://doh.pub/dns-query https://doh.360.cn
 [/floatcamellia.com/]https://doh.pub/dns-query https://doh.360.cn
 [/floatingislandapps.com/]https://doh.pub/dns-query https://doh.360.cn
-[/floatmaze.com/]https://doh.pub/dns-query https://doh.360.cn
 [/flockypet.com/]https://doh.pub/dns-query https://doh.360.cn
 [/flomoapp.com/]https://doh.pub/dns-query https://doh.360.cn
 [/floorb2b.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -36967,7 +36950,6 @@
 [/gewu.vc/]https://doh.pub/dns-query https://doh.360.cn
 [/gewuer.com/]https://doh.pub/dns-query https://doh.360.cn
 [/gewuzhixiang.com/]https://doh.pub/dns-query https://doh.360.cn
-[/gexiao.me/]https://doh.pub/dns-query https://doh.360.cn
 [/gexiaocloud.com/]https://doh.pub/dns-query https://doh.360.cn
 [/gexinda.com/]https://doh.pub/dns-query https://doh.360.cn
 [/gexing.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -40937,7 +40919,6 @@
 [/gxzcpsw.com/]https://doh.pub/dns-query https://doh.360.cn
 [/gxzcs.com/]https://doh.pub/dns-query https://doh.360.cn
 [/gxzdsj.com/]https://doh.pub/dns-query https://doh.360.cn
-[/gxzdyg.com/]https://doh.pub/dns-query https://doh.360.cn
 [/gxzecai.com/]https://doh.pub/dns-query https://doh.360.cn
 [/gxzepu.com/]https://doh.pub/dns-query https://doh.360.cn
 [/gxzero.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -43661,7 +43642,6 @@
 [/heihei.com/]https://doh.pub/dns-query https://doh.360.cn
 [/heiheiyuyin.com/]https://doh.pub/dns-query https://doh.360.cn
 [/heihekeji.com/]https://doh.pub/dns-query https://doh.360.cn
-[/heijiao.net/]https://doh.pub/dns-query https://doh.360.cn
 [/heijiaovip.com/]https://doh.pub/dns-query https://doh.360.cn
 [/heilanhome.com/]https://doh.pub/dns-query https://doh.360.cn
 [/heilifun.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -44746,7 +44726,6 @@
 [/hk-vstart.com/]https://doh.pub/dns-query https://doh.360.cn
 [/hk-xin.com/]https://doh.pub/dns-query https://doh.360.cn
 [/hk.uy/]https://doh.pub/dns-query https://doh.360.cn
-[/hk0523.com/]https://doh.pub/dns-query https://doh.360.cn
 [/hk603.hk/]https://doh.pub/dns-query https://doh.360.cn
 [/hk8668.com/]https://doh.pub/dns-query https://doh.360.cn
 [/hk9.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -47057,7 +47036,6 @@
 [/huichongduo.com/]https://doh.pub/dns-query https://doh.360.cn
 [/huichuangjialife.com/]https://doh.pub/dns-query https://doh.360.cn
 [/huichuangzhanlan.com/]https://doh.pub/dns-query https://doh.360.cn
-[/huicx7.com/]https://doh.pub/dns-query https://doh.360.cn
 [/huida18.com/]https://doh.pub/dns-query https://doh.360.cn
 [/huidabbs.com/]https://doh.pub/dns-query https://doh.360.cn
 [/huidafrp.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -49021,7 +48999,6 @@
 [/ict88.com/]https://doh.pub/dns-query https://doh.360.cn
 [/ictbda.com/]https://doh.pub/dns-query https://doh.360.cn
 [/ictcsr.org/]https://doh.pub/dns-query https://doh.360.cn
-[/ictdns.icu/]https://doh.pub/dns-query https://doh.360.cn
 [/ictdns.store/]https://doh.pub/dns-query https://doh.360.cn
 [/ictdns.tech/]https://doh.pub/dns-query https://doh.360.cn
 [/ictehi.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -49663,7 +49640,6 @@
 [/ikjtao.com/]https://doh.pub/dns-query https://doh.360.cn
 [/ikjxc.com/]https://doh.pub/dns-query https://doh.360.cn
 [/ikmoo.com/]https://doh.pub/dns-query https://doh.360.cn
-[/ikncn.com/]https://doh.pub/dns-query https://doh.360.cn
 [/ikonfx.com/]https://doh.pub/dns-query https://doh.360.cn
 [/ikongjian.com/]https://doh.pub/dns-query https://doh.360.cn
 [/ikongjun.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -49976,7 +49952,6 @@
 [/imsyy.com/]https://doh.pub/dns-query https://doh.360.cn
 [/imtaweb.net/]https://doh.pub/dns-query https://doh.360.cn
 [/imtedge.com/]https://doh.pub/dns-query https://doh.360.cn
-[/imtics.com/]https://doh.pub/dns-query https://doh.360.cn
 [/imtmp.net/]https://doh.pub/dns-query https://doh.360.cn
 [/imtrwqjier3.com/]https://doh.pub/dns-query https://doh.360.cn
 [/imtuan.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -52991,7 +52966,6 @@
 [/jingsh.com/]https://doh.pub/dns-query https://doh.360.cn
 [/jingshibang.com/]https://doh.pub/dns-query https://doh.360.cn
 [/jingshibianhuren.com/]https://doh.pub/dns-query https://doh.360.cn
-[/jingshistudy.com/]https://doh.pub/dns-query https://doh.360.cn
 [/jingshizyy.com/]https://doh.pub/dns-query https://doh.360.cn
 [/jingshun-wl.com/]https://doh.pub/dns-query https://doh.360.cn
 [/jingshzh.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -55122,7 +55096,6 @@
 [/jufengcap.com/]https://doh.pub/dns-query https://doh.360.cn
 [/jufengcompany.com/]https://doh.pub/dns-query https://doh.360.cn
 [/jufenginfo.com/]https://doh.pub/dns-query https://doh.360.cn
-[/jufengwuxi.com/]https://doh.pub/dns-query https://doh.360.cn
 [/jufu.vip/]https://doh.pub/dns-query https://doh.360.cn
 [/jugao.com/]https://doh.pub/dns-query https://doh.360.cn
 [/jugezi.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -55317,7 +55290,6 @@
 [/junziboxue.com/]https://doh.pub/dns-query https://doh.360.cn
 [/junzimen.com/]https://doh.pub/dns-query https://doh.360.cn
 [/junziqian.com/]https://doh.pub/dns-query https://doh.360.cn
-[/junziyize.com/]https://doh.pub/dns-query https://doh.360.cn
 [/juooo.com/]https://doh.pub/dns-query https://doh.360.cn
 [/jupiterlauncher.com/]https://doh.pub/dns-query https://doh.360.cn
 [/jupup.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -58372,7 +58344,6 @@
 [/lamoton.com/]https://doh.pub/dns-query https://doh.360.cn
 [/lampbi.com/]https://doh.pub/dns-query https://doh.360.cn
 [/lampouomo.com/]https://doh.pub/dns-query https://doh.360.cn
-[/lamwatch.com/]https://doh.pub/dns-query https://doh.360.cn
 [/lamyu.com/]https://doh.pub/dns-query https://doh.360.cn
 [/lan-bridge.com/]https://doh.pub/dns-query https://doh.360.cn
 [/lan-lin.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -58389,7 +58360,6 @@
 [/lanchuanhuanbao.com/]https://doh.pub/dns-query https://doh.360.cn
 [/lancn.net/]https://doh.pub/dns-query https://doh.360.cn
 [/lancong.net/]https://doh.pub/dns-query https://doh.360.cn
-[/lanconvey.com/]https://doh.pub/dns-query https://doh.360.cn
 [/lancunwater.com/]https://doh.pub/dns-query https://doh.360.cn
 [/lancygroup.com/]https://doh.pub/dns-query https://doh.360.cn
 [/land136.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -66397,7 +66367,6 @@
 [/n802.com/]https://doh.pub/dns-query https://doh.360.cn
 [/n8soft.com/]https://doh.pub/dns-query https://doh.360.cn
 [/n9z.net/]https://doh.pub/dns-query https://doh.360.cn
-[/na.ci/]https://doh.pub/dns-query https://doh.360.cn
 [/naaln.com/]https://doh.pub/dns-query https://doh.360.cn
 [/nabel.cc/]https://doh.pub/dns-query https://doh.360.cn
 [/nabluemedia.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -66852,7 +66821,6 @@
 [/ncmtkj.com/]https://doh.pub/dns-query https://doh.360.cn
 [/ncmtr.com/]https://doh.pub/dns-query https://doh.360.cn
 [/ncnynl.com/]https://doh.pub/dns-query https://doh.360.cn
-[/ncogvki.xyz/]https://doh.pub/dns-query https://doh.360.cn
 [/ncpa-classic.com/]https://doh.pub/dns-query https://doh.360.cn
 [/ncpc.biz/]https://doh.pub/dns-query https://doh.360.cn
 [/ncpqh.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -70486,7 +70454,6 @@
 [/panso.pro/]https://doh.pub/dns-query https://doh.360.cn
 [/pansoso.com/]https://doh.pub/dns-query https://doh.360.cn
 [/pansou.com/]https://doh.pub/dns-query https://doh.360.cn
-[/pansousuo.com/]https://doh.pub/dns-query https://doh.360.cn
 [/pantherhealthcare.com/]https://doh.pub/dns-query https://doh.360.cn
 [/pantonechina.com/]https://doh.pub/dns-query https://doh.360.cn
 [/pantonecn.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -70893,7 +70860,6 @@
 [/penging.com/]https://doh.pub/dns-query https://doh.360.cn
 [/pengke.com/]https://doh.pub/dns-query https://doh.360.cn
 [/penglei.name/]https://doh.pub/dns-query https://doh.360.cn
-[/pengliao.com/]https://doh.pub/dns-query https://doh.360.cn
 [/pengpailaw.com/]https://doh.pub/dns-query https://doh.360.cn
 [/pengrl.com/]https://doh.pub/dns-query https://doh.360.cn
 [/pengrui-ssj.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -71077,7 +71043,6 @@
 [/phonecoolgame.com/]https://doh.pub/dns-query https://doh.360.cn
 [/phonegap.me/]https://doh.pub/dns-query https://doh.360.cn
 [/phonegap100.com/]https://doh.pub/dns-query https://doh.360.cn
-[/phonelinksoft.com/]https://doh.pub/dns-query https://doh.360.cn
 [/phonertech.com/]https://doh.pub/dns-query https://doh.360.cn
 [/phopic.com/]https://doh.pub/dns-query https://doh.360.cn
 [/phosun.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -71704,7 +71669,6 @@
 [/pomeloyun.com/]https://doh.pub/dns-query https://doh.360.cn
 [/pomoho.com/]https://doh.pub/dns-query https://doh.360.cn
 [/pondernext.com/]https://doh.pub/dns-query https://doh.360.cn
-[/ponging.store/]https://doh.pub/dns-query https://doh.360.cn
 [/ponkong.com/]https://doh.pub/dns-query https://doh.360.cn
 [/ponley.com/]https://doh.pub/dns-query https://doh.360.cn
 [/pontite.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -74941,7 +74905,6 @@
 [/qygbet381.vip/]https://doh.pub/dns-query https://doh.360.cn
 [/qygbet427.vip/]https://doh.pub/dns-query https://doh.360.cn
 [/qygjyey.com/]https://doh.pub/dns-query https://doh.360.cn
-[/qyhgsb.com/]https://doh.pub/dns-query https://doh.360.cn
 [/qyhl.vip/]https://doh.pub/dns-query https://doh.360.cn
 [/qyhr.org/]https://doh.pub/dns-query https://doh.360.cn
 [/qyhxy365.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -76150,7 +76113,6 @@
 [/rongba.com/]https://doh.pub/dns-query https://doh.360.cn
 [/rongbiz.com/]https://doh.pub/dns-query https://doh.360.cn
 [/rongbiz.net/]https://doh.pub/dns-query https://doh.360.cn
-[/rongbst.com/]https://doh.pub/dns-query https://doh.360.cn
 [/rongcfg.com/]https://doh.pub/dns-query https://doh.360.cn
 [/rongchain.com/]https://doh.pub/dns-query https://doh.360.cn
 [/rongchaodichan.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -78908,7 +78870,6 @@
 [/shanbotv.com/]https://doh.pub/dns-query https://doh.360.cn
 [/shancemall.com/]https://doh.pub/dns-query https://doh.360.cn
 [/shanchuangjiaoyu.com/]https://doh.pub/dns-query https://doh.360.cn
-[/shancui1688.com/]https://doh.pub/dns-query https://doh.360.cn
 [/shanda960.com/]https://doh.pub/dns-query https://doh.360.cn
 [/shandacasual.net/]https://doh.pub/dns-query https://doh.360.cn
 [/shandagames.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -81407,6 +81368,7 @@
 [/sireda.com/]https://doh.pub/dns-query https://doh.360.cn
 [/sirenyouxiang.com/]https://doh.pub/dns-query https://doh.360.cn
 [/sirfang.com/]https://doh.pub/dns-query https://doh.360.cn
+[/siriser.com/]https://doh.pub/dns-query https://doh.360.cn
 [/sirweara.com/]https://doh.pub/dns-query https://doh.360.cn
 [/siryin.com/]https://doh.pub/dns-query https://doh.360.cn
 [/siscantech.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -81640,7 +81602,6 @@
 [/sk2w.net/]https://doh.pub/dns-query https://doh.360.cn
 [/skatehere.com/]https://doh.pub/dns-query https://doh.360.cn
 [/skcto.com/]https://doh.pub/dns-query https://doh.360.cn
-[/skd6.com/]https://doh.pub/dns-query https://doh.360.cn
 [/skd62.com/]https://doh.pub/dns-query https://doh.360.cn
 [/skdlabs.com/]https://doh.pub/dns-query https://doh.360.cn
 [/skeo.net/]https://doh.pub/dns-query https://doh.360.cn
@@ -81758,7 +81719,6 @@
 [/skyworthnj.com/]https://doh.pub/dns-query https://doh.360.cn
 [/skyworthznxyj.com/]https://doh.pub/dns-query https://doh.360.cn
 [/skyxinli.com/]https://doh.pub/dns-query https://doh.360.cn
-[/skyxvpn.com/]https://doh.pub/dns-query https://doh.360.cn
 [/skyyin.org/]https://doh.pub/dns-query https://doh.360.cn
 [/skyzhan.com/]https://doh.pub/dns-query https://doh.360.cn
 [/skznsb.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -81799,6 +81759,7 @@
 [/slk1.net/]https://doh.pub/dns-query https://doh.360.cn
 [/slkg1949.com/]https://doh.pub/dns-query https://doh.360.cn
 [/sllai.com/]https://doh.pub/dns-query https://doh.360.cn
+[/slldbs641.vip/]https://doh.pub/dns-query https://doh.360.cn
 [/sllngy.com/]https://doh.pub/dns-query https://doh.360.cn
 [/sllssrq.com/]https://doh.pub/dns-query https://doh.360.cn
 [/slodon.net/]https://doh.pub/dns-query https://doh.360.cn
@@ -81907,7 +81868,6 @@
 [/smartxiantao.com/]https://doh.pub/dns-query https://doh.360.cn
 [/smartyao.com/]https://doh.pub/dns-query https://doh.360.cn
 [/smartyoke.com/]https://doh.pub/dns-query https://doh.360.cn
-[/smartyun8.com/]https://doh.pub/dns-query https://doh.360.cn
 [/smartzzx.com/]https://doh.pub/dns-query https://doh.360.cn
 [/smarun.com/]https://doh.pub/dns-query https://doh.360.cn
 [/smaryun.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -82638,7 +82598,6 @@
 [/soyo-dg.com/]https://doh.pub/dns-query https://doh.360.cn
 [/soyohui.com/]https://doh.pub/dns-query https://doh.360.cn
 [/soyoung.com/]https://doh.pub/dns-query https://doh.360.cn
-[/soyouso.com/]https://doh.pub/dns-query https://doh.360.cn
 [/soyunion.com/]https://doh.pub/dns-query https://doh.360.cn
 [/soyx123.com/]https://doh.pub/dns-query https://doh.360.cn
 [/sozdata.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -84437,7 +84396,6 @@
 [/synykj.net/]https://doh.pub/dns-query https://doh.360.cn
 [/syobserve.com/]https://doh.pub/dns-query https://doh.360.cn
 [/syoits.com/]https://doh.pub/dns-query https://doh.360.cn
-[/syoker.com/]https://doh.pub/dns-query https://doh.360.cn
 [/syoseo.com/]https://doh.pub/dns-query https://doh.360.cn
 [/syounggroup.com/]https://doh.pub/dns-query https://doh.360.cn
 [/sypglass.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -87207,7 +87165,6 @@
 [/tianmumusic.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tianmunews.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tianmupe.com/]https://doh.pub/dns-query https://doh.360.cn
-[/tiannbo.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tiannilaw.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tianning.xyz/]https://doh.pub/dns-query https://doh.360.cn
 [/tianninghr.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -89169,13 +89126,11 @@
 [/tuipear.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tuipinpai.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tuiplay.com/]https://doh.pub/dns-query https://doh.360.cn
-[/tuirice.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tuishao.net/]https://doh.pub/dns-query https://doh.360.cn
 [/tuishark.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tuishubang.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tuishujun.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tuisnake.com/]https://doh.pub/dns-query https://doh.360.cn
-[/tuistone.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tuitiger.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tuitui.info/]https://doh.pub/dns-query https://doh.360.cn
 [/tuitui99.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -89716,7 +89671,6 @@
 [/tzwdsoft.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tzwpco.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tzxingtang.com/]https://doh.pub/dns-query https://doh.360.cn
-[/tzxwzx.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tzyiyuantuan.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tzyongda.com/]https://doh.pub/dns-query https://doh.360.cn
 [/tzyun.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -92705,7 +92659,6 @@
 [/weaoo.com/]https://doh.pub/dns-query https://doh.360.cn
 [/weapp.com/]https://doh.pub/dns-query https://doh.360.cn
 [/weapp.me/]https://doh.pub/dns-query https://doh.360.cn
-[/weareing.store/]https://doh.pub/dns-query https://doh.360.cn
 [/wearemanner.com/]https://doh.pub/dns-query https://doh.360.cn
 [/weareqy.com/]https://doh.pub/dns-query https://doh.360.cn
 [/wearesellers.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -92858,7 +92811,6 @@
 [/wedev.cool/]https://doh.pub/dns-query https://doh.360.cn
 [/wedeveloper.com/]https://doh.pub/dns-query https://doh.360.cn
 [/wedfairy.com/]https://doh.pub/dns-query https://doh.360.cn
-[/wedn.net/]https://doh.pub/dns-query https://doh.360.cn
 [/wedoany.com/]https://doh.pub/dns-query https://doh.360.cn
 [/wedoctor.com/]https://doh.pub/dns-query https://doh.360.cn
 [/wedoexpress.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -96502,7 +96454,6 @@
 [/xeeok.com/]https://doh.pub/dns-query https://doh.360.cn
 [/xefan.com/]https://doh.pub/dns-query https://doh.360.cn
 [/xege.org/]https://doh.pub/dns-query https://doh.360.cn
-[/xegymyb.xyz/]https://doh.pub/dns-query https://doh.360.cn
 [/xehedu.com/]https://doh.pub/dns-query https://doh.360.cn
 [/xeknow.com/]https://doh.pub/dns-query https://doh.360.cn
 [/xeltek-cn.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -99362,7 +99313,6 @@
 [/xtw-system.com/]https://doh.pub/dns-query https://doh.360.cn
 [/xtwzyx.com/]https://doh.pub/dns-query https://doh.360.cn
 [/xtx6.com/]https://doh.pub/dns-query https://doh.360.cn
-[/xtxbemp.xyz/]https://doh.pub/dns-query https://doh.360.cn
 [/xtxcm.com/]https://doh.pub/dns-query https://doh.360.cn
 [/xtxh.net/]https://doh.pub/dns-query https://doh.360.cn
 [/xtxnxk.sbs/]https://doh.pub/dns-query https://doh.360.cn
@@ -99401,7 +99351,6 @@
 [/xuanruanjian.com/]https://doh.pub/dns-query https://doh.360.cn
 [/xuanshitou.com/]https://doh.pub/dns-query https://doh.360.cn
 [/xuanshu.com/]https://doh.pub/dns-query https://doh.360.cn
-[/xuanshu.org/]https://doh.pub/dns-query https://doh.360.cn
 [/xuansiwei.com/]https://doh.pub/dns-query https://doh.360.cn
 [/xuantaikeji.com/]https://doh.pub/dns-query https://doh.360.cn
 [/xuanteng.org/]https://doh.pub/dns-query https://doh.360.cn
@@ -105065,7 +105014,6 @@
 [/yzj.cc/]https://doh.pub/dns-query https://doh.360.cn
 [/yzja.com/]https://doh.pub/dns-query https://doh.360.cn
 [/yzjb.com/]https://doh.pub/dns-query https://doh.360.cn
-[/yzjdgs88.com/]https://doh.pub/dns-query https://doh.360.cn
 [/yzjj120.com/]https://doh.pub/dns-query https://doh.360.cn
 [/yzjjw.net/]https://doh.pub/dns-query https://doh.360.cn
 [/yzjob.net/]https://doh.pub/dns-query https://doh.360.cn
@@ -105895,7 +105843,6 @@
 [/zgjtb.com/]https://doh.pub/dns-query https://doh.360.cn
 [/zgjxcad.com/]https://doh.pub/dns-query https://doh.360.cn
 [/zgjxjjw.com/]https://doh.pub/dns-query https://doh.360.cn
-[/zgjymg.com/]https://doh.pub/dns-query https://doh.360.cn
 [/zgjzy.org/]https://doh.pub/dns-query https://doh.360.cn
 [/zgkao.com/]https://doh.pub/dns-query https://doh.360.cn
 [/zgkashi.com/]https://doh.pub/dns-query https://doh.360.cn
@@ -108708,7 +108655,6 @@
 [/znzyf.com/]https://doh.pub/dns-query https://doh.360.cn
 [/zo-station.com/]https://doh.pub/dns-query https://doh.360.cn
 [/zoassetmanagement.com/]https://doh.pub/dns-query https://doh.360.cn
-[/zobmxcfw.com/]https://doh.pub/dns-query https://doh.360.cn
 [/zocai.com/]https://doh.pub/dns-query https://doh.360.cn
 [/zocolor.com/]https://doh.pub/dns-query https://doh.360.cn
 [/zocoxx.com/]https://doh.pub/dns-query https://doh.360.cn
